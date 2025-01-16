@@ -7,6 +7,21 @@
     </url>
     <url>
         <loc>
+            http://localhost:8000/babich-2/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/babich-3/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/babich-4/
+        </loc>
+    </url>
+    <url>
+        <loc>
             http://localhost:8000/
         </loc>
     </url>
