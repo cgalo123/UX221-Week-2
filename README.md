@@ -4,6 +4,7 @@ continuous deployment wordpress
 TLDR;
 
 ```bash
+# cd-wordpress
 npm install
 npm run dev
 ```
